@@ -1,0 +1,17 @@
+. d_table{
+ display: table;
+  width: 100%;
+  border-collapse: collapse;
+}
+
+. tr_table{
+display: table-row;
+}
+
+.td_table{
+display: table-cell;
+  text-align: center;
+  border: none;
+  border: 1px solid #ccc;
+
+}
