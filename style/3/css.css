@@ -7,6 +7,14 @@
 display: table-row;
 }
 
+. tr2_table{
+display: table-row;
+  text-align: center;
+  border:6px solid red;
+  background:black; 
+  color:white;
+}
+
 .td_table{
 display: table-cell;
   text-align: left;
