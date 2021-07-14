@@ -25,6 +25,7 @@ display: table-cell;
 
 .tr2_table{
 display: table-row;
+  width: 100%;
   text-align: center;
   border:6px solid red;
   background:black; 
