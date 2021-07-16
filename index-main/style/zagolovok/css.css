@@ -1,0 +1,16 @@
+. d2_table{
+ display: table;
+  width: 100%;
+}
+
+. tr2_table{
+display: table-row;
+}
+
+.tr3_table{
+display: table-row;
+  text-align: center;
+  border:6px solid red;
+  background:black; 
+  color:white;
+}
